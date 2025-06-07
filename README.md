@@ -16,8 +16,11 @@ Aplicativo desenvolvido como parte de um trabalho de extensão da **Estácio**, 
 
 ## 📱 Prints de dentro do Aplicativo
 
-![print 1](https://github.com/user-attachments/assets/b7437170-4966-4c2b-a6d1-6fec300fcdcf)
-![print 2](https://github.com/user-attachments/assets/2e0f5ce4-c95b-489b-9614-d0c6a60242bd)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b7437170-4966-4c2b-a6d1-6fec300fcdcf" alt="print 1" width="250" />
+  <img src="https://github.com/user-attachments/assets/2e0f5ce4-c95b-489b-9614-d0c6a60242bd" alt="print 2" width="250" />
+</p>
+
 
 ---
 
