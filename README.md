@@ -39,4 +39,8 @@ Este aplicativo foi desenvolvido como parte das atividades de extensão da Está
 
 ---
 
+## 📥 Download do Aplicativo
+O aplicativo está disponível para android, clique no link abaixo para testar:
+
+[📦 Baixar Gerenciador de Estoque.APK](https://github.com/brennomss/Gerenciador-de-Estoque/releases/download/app/application-2c74a014-0abc-45e2-9a60-b3732162fdfd.apk)
 
